@@ -1,1 +1,5 @@
-The code in Exercise 35 is taken from the Learn Python the Hard Way website...I reproduced the code up to lesson 35 in the one file in this repo. It is an example of a simple branch based progression in a small text based game. 
+Here you can find a handful of small python scripts that I have written. 
+
+The Weather Script  -- Bound and Determined to pull and reorder weather data from *.gov APIs. 
+
+The CNN Script  -- Lets get this one in here..
