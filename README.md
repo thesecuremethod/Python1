@@ -1,4 +1,4 @@
-Here you can find a handful of small python scripts that I have written. 
+Here you can find a handful of small python and bash scripts that I have written. 
 
 The Weather Script  -- this was a fun one,  written in 2013 when a friend asked my to use python to pull down a list of cities from a 
                     certain county, list them in ascending order by name and corresponding current temperature. Bound and Determined to 
