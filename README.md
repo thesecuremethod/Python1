@@ -1,1 +1,1 @@
-The code in Exercise 35 is taken from the Learn Python the Hard Way website. I survived and reproduced the code up to lesson 35 in the one file in this repo. It is an example of a simple branch based progression in a small text based game. Fairly straight forward. No one will ever fork this. :) 
+The code in Exercise 35 is taken from the Learn Python the Hard Way website...I reproduced the code up to lesson 35 in the one file in this repo. It is an example of a simple branch based progression in a small text based game. 
