@@ -1,3 +1,3 @@
-Oh yeah... my code. BAM! :) 
+Bash & Python for Simplicity. 
 
 curl https://www.cnn.com | grep "text/javascript" | wc -l 
