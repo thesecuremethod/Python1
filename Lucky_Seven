@@ -1,0 +1,29 @@
+// This function will allow you to incrementally iterate over a slice of an array. 
+
+
+num_array = [2,1,5,1,0]
+
+def check_seven4():  // ignore the 4 -- naming convention is for internal notes..
+        n = 0
+
+        while True:
+
+                print n
+                slice = num_array[n:n+3]
+                calc = sum(slice)
+
+                print calc
+
+                if calc == 7:
+
+                        print "True"
+                        return True
+                        break
+
+                else:
+
+                        n += 1
+                        print "False"
+                        return False
+
+check_seven4()
