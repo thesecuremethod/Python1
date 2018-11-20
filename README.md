@@ -11,6 +11,8 @@ The CNN Script  -- Lets get this one in here. This was my first example of learn
 The Paramiko Paradigm  -- code not uploaded yet 
 
 
+Lucky_Seven -- This function allows you to incrementally iterate over a slice of an array. 
+
 Sed and Awk examples 
 
 
